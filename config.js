@@ -31,32 +31,32 @@ global.sig = 'https://instagram.com/l4c1f2r'
 global.syt = 'https://youtube.com/@Putra_Modz_'
 global.sgh = 'https://github.com/Lucife-Putra'
 global.sgc = 'https://chat.whatsapp.com/Ec0Mthvb1mpEcaGy1fmVao'
-global.sdc = 'https://wa.me/6285770356017'
-global.swa = 'wa.me/6285770356017'
+global.sdc = 'https://wa.me/6285608468994'
+global.swa = 'wa.me/6285608468994'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
+global.povo = '6285608468994'
+global.pgopay = '447971532870'
+global.ppulsa = '6285608468994'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285608468994'
-global.nomorown = '6285608468994'
-global.namebot = 'YxuBotz'
-global.nameown = 'KyyModz'
+global.nomorown = '447971532870'
+global.namebot = 'DivanXdbotz'
+global.nameown = 'DivanXd'
 
 
 /*============== STAFF ==============*/
 global.owner = [
+  ['447971532870'],
+  ['447971532870'],
   ['6285608468994'],
-  ['6285608468994'],
-  ['6285608468994'],
-  ['6285608468994', 'KyyModz', true]
+  ['447971532870', 'DivanXd', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,14 +109,14 @@ global.bear = 'VBkM7rbU'
 
 /*============== WATERMARK ==============*/
 global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.wm = 'By YxuBotz' //Main Watermark
-global.wm2 = 'Kyymodz'
-global.wm3 = 'YxuBotz | By KyyModz'
+global.wm = 'By DivanXdbotz' //Main Watermark
+global.wm2 = 'DivanXdbotz'
+global.wm3 = 'DivanXdbotz | By DivanXdbotz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'KyyModz' 
-global.packname = 'KyyModz'
+global.titlebot = `DivanXdbotz | ʙʏ ${global.nameown}`
+global.author = 'DivanXdbotz' 
+global.packname = 'DivanXdbotz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Mei 02 2023'
 
@@ -135,10 +135,10 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'KyyModz'
-global.umurowner = '16'
-global.asalowner = 'Jawa Barat, Cianjur'
-global.nomorowner = 'wa.me/6285770356017'
+global.nameowner = 'DivanXdbotz'
+global.umurowner = '18'
+global.asalowner = 'Jawa Timurt, Cianjur'
+global.nomorowner = 'wa.me/6285608468994'
 global.pacarowner = 'Scrt'
 
 /*============== TEXT ==============*/
